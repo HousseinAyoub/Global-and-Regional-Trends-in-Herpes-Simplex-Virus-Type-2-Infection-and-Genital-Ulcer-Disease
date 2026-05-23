@@ -1,0 +1,5 @@
+This repository contains the MATLAB code used for the study “Global and Regional Trends in Herpes Simplex Virus Type 2 Infection and Genital Ulcer Disease, 1980–2050: A Mathematical Modeling Study.” The code implements the Global HSV-2 Model, generates global and regional estimates of HSV-2 infection and HSV-2-attributable genital ulcer disease, and reproduces all figures presented in the article. The README file provides an overview of the repository structure, describes the main code files and their functions, and explains how to run the scripts to reproduce the analyses and figures.
+
+*Correspondence
+Dr. Houssein H. Ayoub, Mathematics Program, Department of Mathematics and Statistics, College of Arts and Sciences, Qatar University, P.O. Box 2713, Doha, Qatar. Telephone: +(974) 4403-7543. E-mail: hayoub@qu.edu.qa.
+Professor Laith J. Abu-Raddad, Infectious Disease Epidemiology Group, Weill Cornell Medicine - Qatar, Qatar Foundation - Education City, P.O. Box 24144, Doha, Qatar. Telephone: +(974) 4492-8321. Fax: +(974) 4492-8333. E-mail: lja2002@qatar-med.cornell.edu.
